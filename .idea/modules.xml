@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/distributed-imooc.iml" filepath="$PROJECT_DIR$/.idea/distributed-imooc.iml" />
       <module fileurl="file://$PROJECT_DIR$/distributed-job/distributed-job.iml" filepath="$PROJECT_DIR$/distributed-job/distributed-job.iml" />
+      <module fileurl="file://$PROJECT_DIR$/distributed-limiter/distributed-limiter.iml" filepath="$PROJECT_DIR$/distributed-limiter/distributed-limiter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/distributed-lock/distributed-lock.iml" filepath="$PROJECT_DIR$/distributed-lock/distributed-lock.iml" />
       <module fileurl="file://$PROJECT_DIR$/distributed-session/distributed-session.iml" filepath="$PROJECT_DIR$/distributed-session/distributed-session.iml" />
     </modules>
   </component>

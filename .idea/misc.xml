@@ -5,6 +5,8 @@
       <list>
         <option value="$PROJECT_DIR$/distributed-session/pom.xml" />
         <option value="$PROJECT_DIR$/distributed-job/pom.xml" />
+        <option value="$PROJECT_DIR$/distributed-limiter/pom.xml" />
+        <option value="$PROJECT_DIR$/distributed-lock/pom.xml" />
       </list>
     </option>
   </component>

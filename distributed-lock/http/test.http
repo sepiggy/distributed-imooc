@@ -1,0 +1,6 @@
+GET localhost:8085/lock
+Accept: application/json
+
+###
+GET localhost:8085/lock2
+Accept: application/json
